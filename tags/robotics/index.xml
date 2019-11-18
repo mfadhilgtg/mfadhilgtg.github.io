@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Fadhil Ginting</title>
+    <link>/tags/robotics/</link>
+      <atom:link href="/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 07:33:13 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Robotics</title>
+      <link>/tags/robotics/</link>
+    </image>
+    
+    <item>
+      <title>Team CoSTAR for DARPA SubT Challenge</title>
+      <link>/project/external-project/</link>
+      <pubDate>Sun, 17 Nov 2019 07:33:13 +0100</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

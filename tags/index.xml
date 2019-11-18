@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 07:33:13 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
+      <title>Robotics</title>
+      <link>/tags/robotics/</link>
+      <pubDate>Sun, 17 Nov 2019 07:33:13 +0100</pubDate>
+      <guid>/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>/tags/vision/</link>
+      <pubDate>Sat, 16 Nov 2019 07:33:13 +0100</pubDate>
+      <guid>/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2019 07:41:18 +0100</pubDate>
       <guid>/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     
