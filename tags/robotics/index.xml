@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robotics | Fadhil Ginting</title>
+    <title>robotics | Fadhil Ginting</title>
     <link>/tags/robotics/</link>
       <atom:link href="/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robotics</description>
+    <description>robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 07:33:13 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Robotics</title>
+      <title>robotics</title>
       <link>/tags/robotics/</link>
     </image>
     
@@ -17,6 +17,22 @@
       <link>/project/external-project/</link>
       <pubDate>Sun, 17 Nov 2019 07:33:13 +0100</pubDate>
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glider</title>
+      <link>/project/glider/</link>
+      <pubDate>Fri, 15 Nov 2019 07:41:18 +0100</pubDate>
+      <guid>/project/glider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR-0 Robot Mascot</title>
+      <link>/project/pk123/</link>
+      <pubDate>Sun, 04 Mar 2018 09:19:31 +0100</pubDate>
+      <guid>/project/pk123/</guid>
       <description></description>
     </item>
     

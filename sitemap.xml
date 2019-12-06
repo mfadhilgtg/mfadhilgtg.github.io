@@ -18,12 +18,67 @@
   </url>
   
   <url>
-    <loc>/talk/ppiswiss/</loc>
-    <lastmod>2019-11-17T07:38:31+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/</loc>
+    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/textvlad/</loc>
+    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vision/</loc>
+    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/deeptam/</loc>
+    <lastmod>2019-12-04T09:20:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social/</loc>
+    <lastmod>2019-12-04T09:20:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/uro/</loc>
+    <lastmod>2019-12-04T09:20:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/yli_blp/</loc>
+    <lastmod>2019-12-04T09:19:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/yli_plp/</loc>
+    <lastmod>2019-12-04T09:19:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cern_gdd/</loc>
+    <lastmod>2019-12-04T09:19:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/others/</loc>
+    <lastmod>2019-12-04T09:19:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ppiswiss/</loc>
     <lastmod>2019-11-17T07:38:31+01:00</lastmod>
   </url>
   
@@ -33,17 +88,7 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-11-17T07:33:13+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/robotics/</loc>
-    <lastmod>2019-11-17T07:33:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-11-17T07:33:13+01:00</lastmod>
   </url>
   
@@ -54,11 +99,6 @@
   
   <url>
     <loc>/project/magicleap/</loc>
-    <lastmod>2019-11-16T07:33:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vision/</loc>
     <lastmod>2019-11-16T07:33:13+01:00</lastmod>
   </url>
   
@@ -135,6 +175,11 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pk123/</loc>
+    <lastmod>2018-03-04T09:19:31+01:00</lastmod>
   </url>
   
   <url>
