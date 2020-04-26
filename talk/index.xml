@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Fadhil Ginting</title>
+    <title>News and Talks | Fadhil Ginting</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2019 07:38:31 +0100</lastBuildDate>
+    <description>News and Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>News and Talks</title>
       <link>/talk/</link>
     </image>
     
     <item>
+      <title>Team CoSTAR led by NASA JPL win DARPA Subterranean Challenge Urban Circuit</title>
+      <link>/talk/subt_urban_win/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/subt_urban_win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Building Robots to Explore Earth and Space</title>
       <link>/talk/ppiswiss/</link>
-      <pubDate>Sun, 17 Nov 2019 07:38:31 +0100</pubDate>
+      <pubDate>Sun, 17 Nov 2019 08:00:31 +0100</pubDate>
       <guid>/talk/ppiswiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teguhkan Eksistensi, Mahasiswa ITB Kembali Wakili Indonesia untuk CERN</title>
+      <link>/talk/cern_news/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/cern_news/</guid>
       <description></description>
     </item>
     
