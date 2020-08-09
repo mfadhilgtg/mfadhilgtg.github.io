@@ -18,8 +18,48 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/spot_iros/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-05-18T00:34:05+02:00</lastmod>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-01T07:41:18+01:00</lastmod>
   </url>
   
   <url>
@@ -44,11 +84,6 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-12-04T09:20:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-04T09:20:33+01:00</lastmod>
   </url>
   
@@ -118,42 +153,12 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/glider/</loc>
     <lastmod>2019-11-15T07:41:18+01:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-11-15T07:41:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
     <lastmod>2019-11-15T07:41:18+01:00</lastmod>
   </url>
   

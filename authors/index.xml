@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 07:41:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 07:41:18 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 15 Nov 2019 07:41:18 +0100</pubDate>
+      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Hello my name is Fadhil, Graduate Student at ETH Zurich with a passion for Robotics and AI. I&amp;rsquo;m currently working at NASA Jet Propulsion Lab as a Visiting Researcher in Pasadena, California.&lt;/p&gt;
 </description>
