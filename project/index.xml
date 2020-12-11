@@ -5,35 +5,12 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 09:20:33 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 09:20:07 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
-    
-    <item>
-      <title>TextVLAD</title>
-      <link>/project/textvlad/</link>
-      <pubDate>Wed, 04 Dec 2019 09:20:33 +0100</pubDate>
-      <guid>/project/textvlad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi Camera DeeptTAM</title>
-      <link>/project/deeptam/</link>
-      <pubDate>Wed, 04 Dec 2019 09:20:18 +0100</pubDate>
-      <guid>/project/deeptam/</guid>
-      <description>&lt;p&gt;Visual Odometry methods based on classical 3D geometry have been around for years, using either indirect feature matching or direct visual error minimization. Lately,learning-based methods that combine both matching and geometry estimation in a single network have achieved impressive results. One such method is DeepTAM. Further, it has been shown that classical methods benefit from the extended field of view provided by using multiple cameras. However, these setups have been ignored by current learning-based methods.&lt;/p&gt;
-
-&lt;p&gt;In this work, we extend the existing DeepTAM pipeline to leverage a multi-camera setup with known geometry. We demonstrate the generalizability of DeepTAM to other monocular setups and highlight the scenarios in which it performs poorly. We show the efficacy of our proposed multi-camera VO pipeline to receive better pose estimates using experiments based on simulation.&lt;/p&gt;
-
-&lt;p&gt;Contributors: Mayank Mittal, Rohit Suri, Fadhil Ginting, Parker Ewen&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/surirohit/multi-camera-deeptam&#34; target=&#34;_blank&#34;&gt;https://github.com/surirohit/multi-camera-deeptam&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>URO ITB</title>
@@ -73,25 +50,40 @@ Team: Fadhil Ginting, Marsya Chairuna, Bernadete Ryninta, Nadia Amalia, M. Fajri
     <item>
       <title>Team CoSTAR for DARPA SubT Challenge</title>
       <link>/project/external-project/</link>
-      <pubDate>Sun, 17 Nov 2019 07:33:13 +0100</pubDate>
+      <pubDate>Sun, 01 Sep 2019 07:33:13 +0100</pubDate>
       <guid>/project/external-project/</guid>
-      <description>&lt;p&gt;Terrestrial  underground  robotic  exploration  has  gained  popularity  from  DARPA  Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate  and  search  underground  environments  with  minimal  command  from  a  single  human supervisor.  The  SubT  Challenge  environments  are  ranging  from  mining  tunnels,  abandoned nuclear power plant, and natural caves, where robot deployment are important for human safety in various scenarios.&lt;/p&gt;
+      <description>&lt;p&gt;Terrestrial  underground  robotic  exploration  has  gained  popularity  from  DARPA  Subterranean (SubT) Challenge program. The SubT Challenge require team of robots to rapidly explore, map, navigate  and  search  underground  environments  with  minimal  command  from  a  single  human supervisor.  The  SubT  Challenge  environments  are  ranging  from  mining  tunnels,  abandoned power plant, and natural caves, where robot deployment are important for human safety in various scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TextVLAD</title>
+      <link>/project/textvlad/</link>
+      <pubDate>Sat, 15 Jun 2019 09:20:33 +0100</pubDate>
+      <guid>/project/textvlad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Camera DeeptTAM</title>
+      <link>/project/deeptam/</link>
+      <pubDate>Wed, 15 May 2019 09:20:18 +0100</pubDate>
+      <guid>/project/deeptam/</guid>
+      <description>&lt;p&gt;Visual Odometry methods based on classical 3D geometry have been around for years, using either indirect feature matching or direct visual error minimization. Lately,learning-based methods that combine both matching and geometry estimation in a single network have achieved impressive results. One such method is DeepTAM. Further, it has been shown that classical methods benefit from the extended field of view provided by using multiple cameras. However, these setups have been ignored by current learning-based methods.&lt;/p&gt;
+
+&lt;p&gt;In this work, we extend the existing DeepTAM pipeline to leverage a multi-camera setup with known geometry. We demonstrate the generalizability of DeepTAM to other monocular setups and highlight the scenarios in which it performs poorly. We show the efficacy of our proposed multi-camera VO pipeline to receive better pose estimates using experiments based on simulation.&lt;/p&gt;
+
+&lt;p&gt;Contributors: Mayank Mittal, Rohit Suri, Fadhil Ginting, Parker Ewen&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/surirohit/multi-camera-deeptam&#34; target=&#34;_blank&#34;&gt;https://github.com/surirohit/multi-camera-deeptam&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Magic Leap Mixed Reality for Healthcare Application</title>
       <link>/project/magicleap/</link>
-      <pubDate>Sat, 16 Nov 2019 07:33:13 +0100</pubDate>
+      <pubDate>Fri, 01 Mar 2019 07:33:13 +0100</pubDate>
       <guid>/project/magicleap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous Underwater Glider for Marine Exploration</title>
-      <link>/project/glider/</link>
-      <pubDate>Fri, 15 Nov 2019 07:41:18 +0100</pubDate>
-      <guid>/project/glider/</guid>
       <description></description>
     </item>
     
@@ -100,6 +92,14 @@ Team: Fadhil Ginting, Marsya Chairuna, Bernadete Ryninta, Nadia Amalia, M. Fajri
       <link>/project/pk123/</link>
       <pubDate>Sun, 04 Mar 2018 09:19:31 +0100</pubDate>
       <guid>/project/pk123/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Underwater Glider for Marine Exploration</title>
+      <link>/project/glider/</link>
+      <pubDate>Mon, 01 May 2017 07:41:18 +0100</pubDate>
+      <guid>/project/glider/</guid>
       <description></description>
     </item>
     

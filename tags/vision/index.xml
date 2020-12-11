@@ -5,7 +5,7 @@
     <link>/tags/vision/</link>
       <atom:link href="/tags/vision/index.xml" rel="self" type="application/rss+xml" />
     <description>vision</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 09:20:33 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2019 09:20:33 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>vision</title>
@@ -15,7 +15,7 @@
     <item>
       <title>TextVLAD</title>
       <link>/project/textvlad/</link>
-      <pubDate>Wed, 04 Dec 2019 09:20:33 +0100</pubDate>
+      <pubDate>Sat, 15 Jun 2019 09:20:33 +0100</pubDate>
       <guid>/project/textvlad/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Multi Camera DeeptTAM</title>
       <link>/project/deeptam/</link>
-      <pubDate>Wed, 04 Dec 2019 09:20:18 +0100</pubDate>
+      <pubDate>Wed, 15 May 2019 09:20:18 +0100</pubDate>
       <guid>/project/deeptam/</guid>
       <description>&lt;p&gt;Visual Odometry methods based on classical 3D geometry have been around for years, using either indirect feature matching or direct visual error minimization. Lately,learning-based methods that combine both matching and geometry estimation in a single network have achieved impressive results. One such method is DeepTAM. Further, it has been shown that classical methods benefit from the extended field of view provided by using multiple cameras. However, these setups have been ignored by current learning-based methods.&lt;/p&gt;
 
@@ -38,7 +38,7 @@
     <item>
       <title>Magic Leap Mixed Reality for Healthcare Application</title>
       <link>/project/magicleap/</link>
-      <pubDate>Sat, 16 Nov 2019 07:33:13 +0100</pubDate>
+      <pubDate>Fri, 01 Mar 2019 07:33:13 +0100</pubDate>
       <guid>/project/magicleap/</guid>
       <description></description>
     </item>
