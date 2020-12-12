@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 07:41:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 07:41:18 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A. Agha-Mohammadi</title>
       <link>/authors/a.-agha-mohammadi/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/a.-agha-mohammadi/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>A. Bouman</title>
       <link>/authors/a.-bouman/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/a.-bouman/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>D. D. Fan</title>
       <link>/authors/d.-d.-fan/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/d.-d.-fan/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>J. Burdick</title>
       <link>/authors/j.-burdick/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/j.-burdick/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>K. Otsu</title>
       <link>/authors/k.-otsu/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/k.-otsu/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>M. Ginting</title>
       <link>/authors/m.-ginting/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/m.-ginting/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>M. Palieri</title>
       <link>/authors/m.-palieri/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/m.-palieri/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>N. Alatur</title>
       <link>/authors/n.-alatur/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/n.-alatur/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>S. Kim</title>
       <link>/authors/s.-kim/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/s.-kim/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>T. Pailevanian</title>
       <link>/authors/t.-pailevanian/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/t.-pailevanian/</guid>
       <description></description>
     </item>
@@ -95,8 +95,80 @@
     <item>
       <title>T. Touma</title>
       <link>/authors/t.-touma/</link>
-      <pubDate>Sat, 01 Aug 2020 07:41:18 +0100</pubDate>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/t.-touma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Edlund</title>
+      <link>/authors/j.-edlund/</link>
+      <pubDate>Wed, 09 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/j.-edlund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Gao</title>
+      <link>/authors/j.-gao/</link>
+      <pubDate>Wed, 09 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/j.-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Beltrame</title>
+      <link>/authors/g.-beltrame/</link>
+      <pubDate>Tue, 08 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/g.-beltrame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Correa</title>
+      <link>/authors/g.-correa/</link>
+      <pubDate>Tue, 08 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/g.-correa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kaufmann</title>
+      <link>/authors/m.-kaufmann/</link>
+      <pubDate>Tue, 08 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/m.-kaufmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Vaquero</title>
+      <link>/authors/t.-vaquero/</link>
+      <pubDate>Tue, 08 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/t.-vaquero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Buscicchio</title>
+      <link>/authors/a.-buscicchio/</link>
+      <pubDate>Mon, 07 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/a.-buscicchio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Patterson</title>
+      <link>/authors/c.-patterson/</link>
+      <pubDate>Sun, 06 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/c.-patterson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Blank</title>
+      <link>/authors/j.-blank/</link>
+      <pubDate>Sun, 06 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/authors/j.-blank/</guid>
       <description></description>
     </item>
     
@@ -137,7 +209,7 @@
       <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a Visiting Robotics Researcher at NASA Jet Propulsion Laboratory in Pasadena, CA, developing robotic autonomy algorithms for autonomous exploration of extreme environments. I&amp;rsquo;m interested in enabling robots to autonomously learn, adapt, and plan in complex real-world environments and interact well with humans.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a Visiting Robotics Researcher at NASA Jet Propulsion Laboratory in Pasadena, CA, developing robotic autonomy algorithms for autonomous exploration of extreme environments. I&amp;rsquo;m interested in enabling robots to autonomously learn, adapt, and plan in complex real-world environments.&lt;/p&gt;
 
 &lt;p&gt;I recently completed a joint Master&amp;rsquo;s thesis at NASA JPL and in Autonomous System Lab (ASL) at ETH Zurich, supervised by Dr. Ali Agha, Dr. Juan Nieto, and Prof. Roland Siegwart. Before graduate school, I studied Electrical Engineering, focusing on Robotics and Control, at Bandung Institute of Technology (ITB).&lt;/p&gt;
 </description>
