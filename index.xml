@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Fadhil Ginting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 07:41:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Fadhil Ginting</title>
@@ -80,6 +80,14 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>My research proposal with the JPL team is featured in Live Science!</title>
+      <link>/talk/mdlivescience/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/mdlivescience/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -188,7 +196,31 @@
     </item>
     
     <item>
-      <title>IEEEngage: NASA Edition</title>
+      <title>I contributed to JPL Team CoSTAR article in IEEE Spectrum</title>
+      <link>/talk/costarspectrum/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/costarspectrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am honored that my paper in Autonomou Spot won IEEE IROS Best Paper Award in Safety, Security, and Rescue Robotics</title>
+      <link>/talk/bestpaperspot/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/bestpaperspot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I shared my experience studying at ETH Zurich and my tips to prepare university and scholarship application</title>
+      <link>/talk/kobi/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/kobi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I gave a career talk to IEEE Student Branch Community</title>
       <link>/talk/ieeengage/</link>
       <pubDate>Mon, 18 May 2020 00:34:05 +0200</pubDate>
       <guid>/talk/ieeengage/</guid>
@@ -196,7 +228,7 @@
     </item>
     
     <item>
-      <title>Topsus C HMFT ITB</title>
+      <title>Slides of my talk to HMFT ITB</title>
       <link>/talk/hmft/</link>
       <pubDate>Fri, 15 May 2020 00:33:52 +0200</pubDate>
       <guid>/talk/hmft/</guid>
@@ -204,7 +236,7 @@
     </item>
     
     <item>
-      <title>Team CoSTAR led by NASA JPL win DARPA Subterranean Challenge Urban Circuit</title>
+      <title>I am delighted that my team CoSTAR Team CoSTAR led by NASA JPL won DARPA Subterranean Challenge Urban Circuit!</title>
       <link>/talk/subt_urban_win/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/talk/subt_urban_win/</guid>
@@ -247,7 +279,7 @@ Team: Fadhil Ginting, Marsya Chairuna, Bernadete Ryninta, Nadia Amalia, M. Fajri
     </item>
     
     <item>
-      <title>Building Robots to Explore Earth and Space</title>
+      <title>A video from my sharing session with PPI Swiss and Liechtenstein</title>
       <link>/talk/ppiswiss/</link>
       <pubDate>Sun, 17 Nov 2019 08:00:31 +0100</pubDate>
       <guid>/talk/ppiswiss/</guid>
