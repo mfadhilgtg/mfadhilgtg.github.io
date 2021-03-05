@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 07:41:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 07:41:18 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>A. Agha-Mohammadi, et al.</title>
+      <link>/authors/a.-agha-mohammadi-et-al./</link>
+      <pubDate>Fri, 12 Feb 2021 07:41:18 +0100</pubDate>
+      <guid>/authors/a.-agha-mohammadi-et-al./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A. Agha-Mohammadi</title>
       <link>/authors/a.-agha-mohammadi/</link>
-      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
       <guid>/authors/a.-agha-mohammadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Edlund</title>
+      <link>/authors/j.-edlund/</link>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
+      <guid>/authors/j.-edlund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Gao</title>
+      <link>/authors/j.-gao/</link>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
+      <guid>/authors/j.-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Otsu</title>
+      <link>/authors/k.-otsu/</link>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
+      <guid>/authors/k.-otsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Ginting</title>
+      <link>/authors/m.-ginting/</link>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
+      <guid>/authors/m.-ginting/</guid>
       <description></description>
     </item>
     
@@ -41,22 +81,6 @@
       <link>/authors/j.-burdick/</link>
       <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/j.-burdick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Otsu</title>
-      <link>/authors/k.-otsu/</link>
-      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/authors/k.-otsu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Ginting</title>
-      <link>/authors/m.-ginting/</link>
-      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/authors/m.-ginting/</guid>
       <description></description>
     </item>
     
@@ -97,22 +121,6 @@
       <link>/authors/t.-touma/</link>
       <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
       <guid>/authors/t.-touma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Edlund</title>
-      <link>/authors/j.-edlund/</link>
-      <pubDate>Wed, 09 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/authors/j.-edlund/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Gao</title>
-      <link>/authors/j.-gao/</link>
-      <pubDate>Wed, 09 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/authors/j.-gao/</guid>
       <description></description>
     </item>
     

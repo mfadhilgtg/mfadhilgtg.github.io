@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Fadhil Ginting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 07:41:18 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Fadhil Ginting</title>
@@ -83,18 +83,10 @@
     </item>
     
     <item>
-      <title>My research proposal with the JPL team is featured in Live Science!</title>
-      <link>/talk/mdlivescience/</link>
-      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/mdlivescience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion</title>
-      <link>/publication/spot_iros/</link>
-      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/spot_iros/</guid>
+      <title>NeBula: Quest for Robotic Autonomy in Challenging Environments, TEAM CoSTAR at the DARPA Subterranean Challenge</title>
+      <link>/publication/jfr_urban/</link>
+      <pubDate>Fri, 12 Feb 2021 07:41:18 +0100</pubDate>
+      <guid>/publication/jfr_urban/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -114,8 +106,37 @@
     <item>
       <title>CHORD: Distributed Data-sharing via Hybrid ROS 1 and 2 for Multi-robot Exploration of Large-scale Complex Environments</title>
       <link>/publication/ros2/</link>
-      <pubDate>Wed, 09 Dec 2020 07:41:18 +0100</pubDate>
+      <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
       <guid>/publication/ros2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My research proposal with the JPL team is featured in Live Science!</title>
+      <link>/talk/mdlivescience/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/mdlivescience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion</title>
+      <link>/publication/spot_iros/</link>
+      <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
+      <guid>/publication/spot_iros/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
