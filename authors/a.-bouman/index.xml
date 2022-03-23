@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Bouman | Fadhil Ginting</title>
-    <link>/authors/a.-bouman/</link>
-      <atom:link href="/authors/a.-bouman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfadhilgtg.github.io/authors/a.-bouman/</link>
+      <atom:link href="https://mfadhilgtg.github.io/authors/a.-bouman/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Bouman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 07:41:18 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://mfadhilgtg.github.io/img/icon-192.png</url>
       <title>A. Bouman</title>
-      <link>/authors/a.-bouman/</link>
+      <link>https://mfadhilgtg.github.io/authors/a.-bouman/</link>
     </image>
     
     <item>
       <title>Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion</title>
-      <link>/publication/spot_iros/</link>
+      <link>https://mfadhilgtg.github.io/publication/spot_iros/</link>
       <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/spot_iros/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/spot_iros/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

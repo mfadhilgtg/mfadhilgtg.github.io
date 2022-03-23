@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Agha-Mohammadi | Fadhil Ginting</title>
-    <link>/authors/a.-agha-mohammadi/</link>
-      <atom:link href="/authors/a.-agha-mohammadi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfadhilgtg.github.io/authors/a.-agha-mohammadi/</link>
+      <atom:link href="https://mfadhilgtg.github.io/authors/a.-agha-mohammadi/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Agha-Mohammadi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Jan 2021 07:41:18 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://mfadhilgtg.github.io/img/icon-192.png</url>
       <title>A. Agha-Mohammadi</title>
-      <link>/authors/a.-agha-mohammadi/</link>
+      <link>https://mfadhilgtg.github.io/authors/a.-agha-mohammadi/</link>
     </image>
     
     <item>
       <title>CHORD: Distributed Data-sharing via Hybrid ROS 1 and 2 for Multi-robot Exploration of Large-scale Complex Environments</title>
-      <link>/publication/ros2/</link>
+      <link>https://mfadhilgtg.github.io/publication/ros2/</link>
       <pubDate>Sat, 09 Jan 2021 07:41:18 +0100</pubDate>
-      <guid>/publication/ros2/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/ros2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion</title>
-      <link>/publication/spot_iros/</link>
+      <link>https://mfadhilgtg.github.io/publication/spot_iros/</link>
       <pubDate>Thu, 10 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/spot_iros/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/spot_iros/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -56,9 +56,9 @@
     
     <item>
       <title>Copilot MIKE: An Autonomous Assistant for Multi-Robot Operations in Cave Exploration</title>
-      <link>/publication/copilot/</link>
+      <link>https://mfadhilgtg.github.io/publication/copilot/</link>
       <pubDate>Tue, 08 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/copilot/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/copilot/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -77,9 +77,9 @@
     
     <item>
       <title>Deployable Mesh Network for Enabling Reliable Communication from within Subsurface Voids to the Planetary Surface</title>
-      <link>/publication/chordagu/</link>
+      <link>https://mfadhilgtg.github.io/publication/chordagu/</link>
       <pubDate>Mon, 07 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/chordagu/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/chordagu/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -98,9 +98,9 @@
     
     <item>
       <title>Mars Dogs: Biomimetic Robots for the Exploration of Mars, from its Rugged Surface to its Hidden Caves</title>
-      <link>/publication/mdagu/</link>
+      <link>https://mfadhilgtg.github.io/publication/mdagu/</link>
       <pubDate>Sun, 06 Dec 2020 07:41:18 +0100</pubDate>
-      <guid>/publication/mdagu/</guid>
+      <guid>https://mfadhilgtg.github.io/publication/mdagu/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
