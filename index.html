@@ -7,7 +7,7 @@
 
     <meta name="author" content="Fadhil Ginting">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon/favicon.svg" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     
   </head>
@@ -55,12 +55,18 @@
           <td style="padding:20px;width:100%;vertical-align:middle">
             <h2>Updates</h2>
             <ul id="news">
+              <li><i>[November 2024]</i>&nbsp; Our Addendum to Nebula paper is published at IEEE Transcation on Field Robotics!</a>.</li>
+              <li><i>[October 2024]</i>&nbsp; I was at TED AI event in San Francisco and giving Field AI robot demo. Our talk will be released soon!</a>.</li>
+              <li><i>[October 2024]</i>&nbsp; I was at IROS in Abu Dhabi, UAE, presenting our <a href="https://arxiv.org/pdf/2401.17191">SB2G paper</a>.</li>
+              <li><i>[October 2024]</i>&nbsp; I presented a poster at Bay Area Robotics Symposium (BARS) on <a href="https://saycomply.github.io/">SayComply</a>.</li>
+              <li><i>[July 2024]</i>&nbsp; I was at RSS in Delft, Netherlands, presenting our <a href="https://arxiv.org/pdf/2405.09822">SEEK paper</a>.</li>
               <li><i>[June 2024]</i>&nbsp; Our paper on semantic-aware object search got accepted to IROS 2024.</li>
               <li><i>[June 2024]</i>&nbsp; Our work is featured in IEEE Spectrum's Video Friday.</li>
               <li><i>[May 2024]</i>&nbsp; Our paper on semantic reasoning for object goal navigation got accepted to RSS 2024!</li>
               <li><i>[January 2024]</i>&nbsp; I gave a research talk at Stanford AA 229 course.</li>
-              <li><i>[October 2023]</i>&nbsp; I presented a poster at BARS.</li>
+              <li><i>[October 2023]</i>&nbsp; I presented a poster at Bay Area Robotics Symposium (BARS).</li>
               <li><i>[June 2023]</i>&nbsp; I started a research internship at Field AI.</li>
+              <li><i>[May 2023]</i>&nbsp; I was at ICRA in London, UK, presenting our <a href="https://arxiv.org/pdf/2401.17191">SBG paper</a>.</li>
               <li><i>[May 2023]</i>&nbsp; I passed the Stanford PhD qualifying exam!</li>
               <li><i>[January 2023]</i>&nbsp; Our work on locomotion adaptation with semantic belief graph is accepted to ICRA 2023.</li>
               <li><i>[June 2022]</i>&nbsp; Our work on capability-aware task allocation got accepted to IROS 2022.</li>
@@ -93,6 +99,41 @@
     <tr onmouseout="seek_stop()" onmouseover="seek_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
+          <img src='images/saycomply.png' width=100%>
+        </div>
+        <script type="text/javascript">
+          function seek_start() {
+            document.getElementById('saycomply_image').style.opacity = "1";
+          }
+
+          function seek_stop() {
+            document.getElementById('saycomply_image').style.opacity = "0";
+          }
+          seek_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/pdf/2411.11323">
+          <span class="papertitle">SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models</span>
+        </a>
+        <br>
+        <strong>Muhammad Fadhil Ginting</strong>, Dong-Ki Kim, Sung-Kyun Kim, Bandi Jai Khrisna,
+        <br> 
+        Mykel Kochenderfer, Shayegan Omidshafiei, Ali-akbar Agha-mohammadi
+        <br>
+        <em>Under review</em>, 2024
+        <br>
+        <a href="https://arxiv.org/pdf/2411.11323">Arxiv</a>, <a href="https://saycomply.github.io/">Website</a>
+
+        <p></p>
+        <p>
+          We propose a task planning method for robots that must comply with operational manuals in real-world settings using a tree-based retrieval augmented generation technique.
+        </p>
+      </td>
+    </tr>
+    <tr onmouseout="seek_stop()" onmouseover="seek_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
           <img src='images/seek.png' width=100%>
         </div>
         <script type="text/javascript">
@@ -111,7 +152,9 @@
           <span class="papertitle">SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks</span>
         </a>
         <br>
-        <strong>Muhammad Fadhil Ginting</strong>, Sung-Kyun Kim, David Fan, Matteo Palieri, Mykel Kochenderfer, Ali-akbar Agha-mohammadi
+        <strong>Muhammad Fadhil Ginting</strong>, Sung-Kyun Kim, David Fan, Matteo Palieri, 
+        <br>
+        Mykel Kochenderfer, Ali-akbar Agha-mohammadi
         <br>
         <em>Robotics: Science and Systems</em>, 2024
         <br>
@@ -133,7 +176,9 @@
           <span class="papertitle">Semantic Belief Behavior Graph: Enabling Autonomous Robot Inspection in Unknown Environments</span>
         </a>
         <br>
-        <strong>M. F. Ginting</strong>, D. D. Fan, S. K. Kim, M. J. Kochenderfer, and A. Agha-mohammadi
+        <strong>Muhammad Fadhil Ginting</strong>, David D. Fan, Sung-Kyun Kim, 
+        <br>
+        Mykel J. Kochenderfer, and Ali-akbar Agha-mohammadi
         <br>
         <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2024
         <br>
